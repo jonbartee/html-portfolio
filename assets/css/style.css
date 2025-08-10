@@ -22,22 +22,14 @@ div.about-me {
   padding: 20px;
 }
 
-#aboutcontent {
+div.content {
   text-align: left;
-  width: 50%;
-  margin-left: 25%;
+  width: 70%;
+  margin-left: 15%;
   padding: 20px;
   background-color: rgb(240, 240, 240);
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-div.resume {
-  margin: 20px;
-  padding: 20px;
-  background-color: rgb(240, 240, 240);
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
 }
 
 html {
